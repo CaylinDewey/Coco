@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-As a **role**  I can **capability** so that **received benefit**ribe this issue template's purpose here.
+As a **role** ,  I can **capability** so that **received benefit**.
 
 - Acceptance criteria 1
 
