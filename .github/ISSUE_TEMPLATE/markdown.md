@@ -1,5 +1,5 @@
 ---
-name: Markdown
+name: Template
 about: Issue boilerplate
 title: ''
 labels: ''
